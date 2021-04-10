@@ -1,0 +1,17 @@
+body {
+	background-color: #13a5aa;
+}
+.textwall {
+	font-family: 'Nunito Sans', sans-serif;
+	font-size: 130%;
+}
+.hearts {
+	text-align: center;
+	font-size: 300%;
+}
+#no {
+	text-decoration: line-through;
+}
+#align{
+    text-align: center;
+}
