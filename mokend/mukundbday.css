@@ -1,0 +1,40 @@
+body {
+	background-color: #212836;
+}
+
+.text {
+	color: aliceblue;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 112.5%;
+}
+
+.cute {
+	text-decoration: line-through;
+}
+
+.pics {
+	margin-top: auto;
+	text-align: center;
+}
+
+.italy {
+	font-style: italic;
+	font-size: larger;
+}
+
+.lyric {
+	font-family: 'Dancing Script', cursive;
+	font-size: 275%;
+	text-align: center;
+}
+
+.special {
+	height: 150px;
+	text-align: center;
+	background-color: #0c6566;
+}
+
+.bb {
+	height: 75px;
+	font-size: 300%;
+}
